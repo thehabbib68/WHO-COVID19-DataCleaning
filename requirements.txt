@@ -1,0 +1,24 @@
+pandas  
+numpy  
+matplotlib  
+seaborn  
+missingno  
+scipy  
+openpyxl  
+
+### **Explanation of Each Library**  
+- **pandas** → For data manipulation and cleaning  
+- **numpy** → For numerical computations and handling missing values  
+- **matplotlib** → For data visualization (graphs, histograms, etc.)  
+- **seaborn** → For statistical visualizations  
+- **missingno** → To visualize missing values in the dataset  
+- **scipy** → Useful for advanced statistical operations  
+- **openpyxl** → Enables reading/writing Excel files  
+
+### **📌 How to Install These Dependencies**  
+Run this command in your terminal or Jupyter Notebook:  
+```sh
+pip install -r requirements.txt
+```
+
+This will install all the required libraries for your project. 🚀
